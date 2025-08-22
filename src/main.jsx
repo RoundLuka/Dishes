@@ -8,6 +8,8 @@ import Contact from './Pages/Contact.jsx';
 import { CartProvider } from './context/CartContext.jsx'
 import './index.css'
 
+// name change
+
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <CartProvider>
